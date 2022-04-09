@@ -1,0 +1,16 @@
+{
+  "name": "whitesocks",
+  "version": "1.0.0",
+  "description": "Ethereum Erc20 token named after my pet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muemajk",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@truffle/hdwallet-provider": "^2.0.5",
+    "chai": "^4.3.6"
+  }
+}
